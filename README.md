@@ -1,0 +1,1 @@
+This website allows users to locate delicious coffee based off their location and log specific coffees they have enjoyed. 
